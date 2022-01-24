@@ -1,0 +1,23 @@
+12 Chasis HPE Synergy 12000 Frame
+2 Switch Cisco MDS 9132T
+8 Switch Cisco Nexus 3048
+2 Switch Cisco Nexus 9316D-GX
+1 Sistema de almacenamiento HPE 3PAR StoreServ 9450-2
+2 Router Cisco C8300-1N1S-6T
+2 Firewall Cisco ASA 5516-X
+120 Servidor rack HPE Proliant DL20
+
+8 racks modelo NetShelter SX 42U
+
+300 cables Gigabit Ethernet
+100 cables fiber channel
+
+2 SAI Symmetra PX de 64kW, escalables a 160kW
+2 PDu PDPM277H de 277 kVA, 400 A, 400 V y 72 polos
+8 disyuntores PDM3516IEC-500
+14 Rack PDU AP7557
+
+1 generador eléctrico capaz de suministrar 144.000W
+
+4 InRow RC ACRC301S
+2 sistema de puerta ACDC1016
